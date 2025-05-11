@@ -1,6 +1,15 @@
-# 💫 About Me:
-I’m currently learning advanced ML Algorithms and App Development<br><br>👯 I’m looking to collaborate on Machine Learning projects<br><br>💬 Ask me about ML, WebDev<br><br>📫 How to reach me surweeshsp@gmail.com
+## 💫 About Me:
+## 🤖 **ML & App Development Portfolio**
 
+Welcome to my **Machine Learning** and **App Development** project repository! Here, you'll find a variety of projects that explore the fusion of cutting-edge ML algorithms and modern app/web development techniques. Whether it's building AI-powered apps, web platforms, or deploying smart solutions, this is where the magic happens.
+
+
+## 🚀 **About Me**
+I’m an **ML enthusiast** and **App Developer** passionate about creating intelligent, data-driven solutions. My expertise spans across:
+
+- **Machine Learning**: From building neural networks to deploying real-time AI applications.
+- **App Development**: Developing both web and mobile applications with AI and ML integrations.
+- **AI Solutions**: Making apps smarter and more efficient with deep learning, reinforcement learning, and natural language processing.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/surweeshsprabakaran) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SurweeshSPrabakaran) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)][![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/surweeshsp) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:surweeshsp@gmail.com) 
