@@ -1,6 +1,6 @@
 
 ## 🚀 **About Me**
-I’m an **ML enthusiast** and **App Developer** passionate about creating intelligent, data-driven solutions. My expertise spans across:
+I’m an **ML enthusiast** and **Web Developer** passionate about creating intelligent, data-driven solutions. My expertise spans across:
 
 - **Machine Learning**: From building neural networks to deploying real-time AI applications.
 - **Web Development**: Developing both web applications with AI and ML integrations.
