@@ -3,7 +3,7 @@
 I’m an **ML enthusiast** and **App Developer** passionate about creating intelligent, data-driven solutions. My expertise spans across:
 
 - **Machine Learning**: From building neural networks to deploying real-time AI applications.
-- **App Development**: Developing both web and mobile applications with AI and ML integrations.
+- **Web Development**: Developing both web applications with AI and ML integrations.
 - **AI Solutions**: Making apps smarter and more efficient with deep learning, reinforcement learning, and natural language processing.
 
 
