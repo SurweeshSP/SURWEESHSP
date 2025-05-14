@@ -14,7 +14,7 @@ Welcome to my **Machine Learning** and **Web Development** project repository! H
 ## Learning the Fundamentals of BlockChains & App Dev
 Fundatist menatls of **BloackChains and smart contracts** with **App Dev Flutter** prepares a huge contribution is most instresting parts and innovative areas to explore.
 
-##Contact Me for Any Innovative Ideas
+## **Contact Me for Any Innovative Ideas**
 OpenSourcing....
 
 ## 🌐 Socials:
