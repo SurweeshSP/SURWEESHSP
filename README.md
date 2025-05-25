@@ -15,7 +15,7 @@ Welcome to my **Machine Learning** and **Web Development** project repository! H
 Fundatist menatls of **BlockChains and smart contracts** with **App Dev Flutter** prepares a huge contribution is most instresting parts and innovative areas to explore.
 
 ## **Contact Me for Any Innovative Ideas**
-OpenSourcing....
+OpenSourcing.....
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/surweeshsprabakaran) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SurweeshSPrabakaran) ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/surweeshsp) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:surweeshsp@gmail.com) 
