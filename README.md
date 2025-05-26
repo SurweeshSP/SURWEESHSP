@@ -11,8 +11,8 @@ I’m an **ML enthusiast** and **Web Developer** passionate about creating intel
 
 Welcome to my **Machine Learning** and **Web Development** project repository! Here, you'll find a variety of projects that explore the fusion of cutting-edge ML algorithms and modern app/web development techniques. Whether it's building AI-powered apps, web platforms, or deploying smart solutions, this is where the datmental magic happens.
 
-##Creating simple npm packages : 
-🔗 npm Profile: surweeshsp
+## Creating simple npm packages : 
+🔗 npm Profile: [surweeshsp](https://www.npmjs.com/~surweeshsp)
 
 ## Learning the Fundamentals of BlockChains & App Dev
 Fundatist menatls of **BlockChains and smart contracts** with **App Dev Flutter** prepares a huge contribution is most instresting parts and innovative areas to explore.
