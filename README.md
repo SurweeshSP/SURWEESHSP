@@ -15,7 +15,7 @@ Welcome to my **Machine Learning** and **Web Development** project repository! H
 🔗 npm Profile: [surweeshsp](https://www.npmjs.com/~surweeshsp)
 
 ## Learning the Fundamentals of BlockChains & App Dev
-Fundatist menatls of **BlockChains and Smart Contracts** with **App Dev ReactNative** prepares a huge contribution is most instresting parts and innovative areas to explore.
+Fundaments of **BlockChains and Smart Contracts** with **ReactNative based applications** prepares a huge contribution is most instresting parts and innovative areas to explore.
 
 ## **Contact Me for Any Innovative Ideas**
 OpenSourcing.....
