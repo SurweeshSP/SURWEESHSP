@@ -14,15 +14,16 @@ Welcome to my **Machine Learning** and **Web Development** project repository! H
 ## **Creating simple npm-pip packages :** 
 🔗 npm Profile: [surweeshsp](https://www.npmjs.com/~surweeshsp)
 
-## **App Dev** using React Native 
+
 
 ## Learning the Fundamentals of BlockChains
 Fundaments of **BlockChains and Smart Contracts** prepares a huge contribution is most instresting parts and innovative areas to explore.
 **Cartesi** python and BlockChain Netowrk...
 
 ## Tech:
-**Essientails of Docker, Linux and DevOps**
-**MLOps and DataOps** for real time operations and orchestrations, **AirFlow**...
+- **Essientails of Docker, Linux and DevOps**
+- **MLOps and DataOps** for real time operations and orchestrations, **AirFlow**...
+- **App Dev** using React Native 
 
 ## **Contact Me for Any Innovative Ideas**
 OpenSourcing.....
