@@ -18,7 +18,7 @@ Welcome to my **Machine Learning** and **Web Development** project repository! H
 
 ## Learning the Fundamentals of BlockChains
 Fundaments of **BlockChains and Smart Contracts** prepares a huge contribution is most instresting parts and innovative areas to explore.
-**Cartesi** python and BlockChain Netowrk...
+**Cartesi** python and BlockChain Network...
 
 ## Tech:
 - **Essientails of Docker, Linux and DevOps**
