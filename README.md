@@ -11,11 +11,18 @@ I’m an **ML enthusiast** and **passionate Developer** creating intelligent, da
 
 Welcome to my **Machine Learning** and **Web Development** project repository! Here, you'll find a variety of projects that explore the fusion of cutting-edge ML algorithms and modern app/web development techniques. Whether it's building AI-powered apps, web platforms, or deploying smart solutions, this is where the datmental magic happens.
 
-## Creating simple npm packages : 
+## **Creating simple npm-pip packages :** 
 🔗 npm Profile: [surweeshsp](https://www.npmjs.com/~surweeshsp)
 
-## Learning the Fundamentals of BlockChains & App Dev
-Fundaments of **BlockChains and Smart Contracts** with **ReactNative based applications** prepares a huge contribution is most instresting parts and innovative areas to explore.
+## **App Dev** using React Native 
+
+## Learning the Fundamentals of BlockChains
+Fundaments of **BlockChains and Smart Contracts** prepares a huge contribution is most instresting parts and innovative areas to explore.
+**Cartesi** python and BlockChain Netowrk...
+
+## Tech:
+**Essientails of Docker, Linux and DevOps**
+**MLOps and DataOps** for real time operations and orchestrations, **AirFlow**...
 
 ## **Contact Me for Any Innovative Ideas**
 OpenSourcing.....
