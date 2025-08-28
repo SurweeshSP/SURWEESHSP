@@ -21,8 +21,11 @@ Fundaments of **BlockChains and Smart Contracts** prepares a huge contribution i
 **Cartesi** python and BlockChain Network...
 
 ## Tech:
+- **Web Dev**
+- **Artificial Intelligence & Machine Learning** 
+- **MLOps and DataOps** for real time operations and orchestrations, **AirFlow**
+- **Blockchain, Cartesi and web3**
 - **Essientails of Docker, Linux and DevOps**
-- **MLOps and DataOps** for real time operations and orchestrations, **AirFlow**...
 - **App Dev** using React Native 
 
 ## **Contact Me for Any Innovative Ideas**
