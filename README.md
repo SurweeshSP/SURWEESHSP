@@ -2,14 +2,14 @@
 ## 🚀 **About Me**
 I’m an **ML enthusiast** and **passionate Developer** creating intelligent, data-driven solutions. My expertise spans across:
 
-- **Machine Learning**: From building neural networks to deploying real-time AI applications.
+- **Machine Learning**: From building neural networks in Python and C++ to deploying real-time AI applications.
 - **Web Development**: Developing both web applications with AI and ML integrations.
 - **AI Solutions**: Making apps smarter and more efficient with deep learning, reinforcement learning, and natural language processing.
 
 
 ## 🤖 **ML & Web Development Portfolio**
 
-Welcome to my **Machine Learning** and **Web Development** project repository! Here, you'll find a variety of projects that explore the fusion of cutting-edge ML algorithms and modern app/web development techniques. Whether it's building AI-powered apps, web platforms, or deploying smart solutions, this is where the datmental magic happens.
+Welcome to my **Machine Learning** and *Software Development** project repository! Here, you'll find a variety of projects that explore the fusion of cutting-edge ML algorithms and modern app/web development techniques. Whether it's building AI-powered apps, web platforms, or deploying smart solutions, this is where the datmental magic happens.
 
 ## **Creating simple npm-pip packages :** 
 🔗 npm Profile: [surweeshsp](https://www.npmjs.com/~surweeshsp)
