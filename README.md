@@ -115,6 +115,9 @@ def say_hi(self):
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SurweeshSP&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 </div>
 
+<!--  New-->
+ ![](https://github-readme-stats.vercel.app/api?username=SurweeshSP&theme=merko&hide_border=false&include_all_commits=true&count_private=false)
+
 ---
 
 ## 🏆 GitHub Trophies
