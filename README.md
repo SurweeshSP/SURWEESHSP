@@ -230,8 +230,7 @@ I'm always open to:
 
 ### ⚡ Fun Facts
 
-*"Why Python when you can C++? Speed matters when training models!"* 🚀  
-*"From neural networks to blockchain - building the future, one commit at a time."* 💻✨
+AI learns like humans forget — by removing what doesn’t matter.
 
 ---
 
