@@ -48,9 +48,9 @@ def say_hi(self):
 <div align="center">
 
 ### ⚡ Core Languages
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 
@@ -122,24 +122,6 @@ def say_hi(self):
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SurweeshSP&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-### 🔬 Machine Learning in C++
-[![ML-in-Cpp](https://github-readme-stats.vercel.app/api/pin/?username=SurweeshSP&repo=ML-in-Cpp&theme=tokyonight&hide_border=true)](https://github.com/SurweeshSP/ML-in-Cpp)
-
-**High-performance ML implementation using mlpack & Armadillo**
-- ⚡ Matrix operations with Armadillo linear algebra
-- 📂 CSV data import and preprocessing
-- 📊 Statistical analysis and dataset exploration
-- 📈 Linear Regression with mlpack
-- 🎯 Future: Logistic Regression, Decision Trees, K-Means Clustering
-
 </div>
 
 ---
