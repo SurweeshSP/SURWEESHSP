@@ -116,7 +116,7 @@ def say_hi(self):
 </div>
 
 <!--  New-->
- ![](https://github-readme-stats.vercel.app/api?username=SurweeshSP&theme=merko&hide_border=false&include_all_commits=true&count_private=false)
+ 
 
 ---
 
