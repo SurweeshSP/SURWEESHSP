@@ -10,7 +10,7 @@
 
 ## 🎯 About Me
 
-I'm a **Machine Learning Engineer** and **Full-Stack Developer** who believes in pushing boundaries—from building neural networks in **C++** for maximum performance to creating intelligent web applications with **Python** and **JavaScript**. My work spans the full spectrum of modern tech: AI, blockchain, and scalable web solutions[attached_file:1][web:40][web:43].
+I'm a **Machine Learning Engineer** and **Full-Stack Developer** who believes in pushing boundaries—from building neural networks in **C++** for maximum performance to creating intelligent web applications with **Python** and **JavaScript**. My work spans the full spectrum of modern tech: AI, blockchain, and scalable web solutions.
 
 ---
 ```bash
