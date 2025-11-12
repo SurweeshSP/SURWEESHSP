@@ -36,7 +36,7 @@ def say_hi(self):
 - ⚡ **High-Performance ML**: Implementing machine learning algorithms in **C++** using **mlpack** and **Armadillo** for maximum efficiency
 - 🤖 **Deep Learning**: Building neural networks with TensorFlow, Keras, and PyTorch
 - 🌐 **AI-Powered Web Apps**: Creating intelligent web applications with ML integrations
-- ⛓️ **Blockchain & Web3**: Exploring **Cartesi** (Python + Blockchain) and smart contracts
+- ⛓️ **Blockchain & Web3**: Exploring web3JS with solidity and **Cartesi** (Python + Blockchain) and smart contracts
 - 📦 **MLOps & DataOps**: Orchestrating real-time ML operations with **Apache Airflow**
 - 📱 **Cross-Platform Development**: Building apps with **React Native**
 
