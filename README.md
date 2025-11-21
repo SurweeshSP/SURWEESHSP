@@ -233,7 +233,7 @@ I'm always open to:
 
 ### ⚡ Fun Facts
 
-AI learns like humans forget — by removing what doesn’t matter.
+Humans don’t forget — they just commit changes without writing the commit message.
 
 ---
 
