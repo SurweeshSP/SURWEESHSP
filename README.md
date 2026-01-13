@@ -86,7 +86,7 @@ def build(self):
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 Connect With Me via
 
 <div align="center">
 
