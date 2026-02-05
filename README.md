@@ -18,7 +18,7 @@ class MLDataEngineer:
 def init(self):
 self.name = "Surweesh S Prabakaran"
 self.focus = ["Machine Learning", "Data Engineering", "Cloud", "Web Tech"]
-self.stack = ["Python", "C++", "SQL", "JavaScript", "Docker", "AWS", "Airflow"]
+self.stack = ["Python", "Java", "SQL", "JavaScript", "Docker", "AWS", "Airflow"]
 def build(self):
     print("End-to-end AI solutions that scale ⚙️🌩️")
 
