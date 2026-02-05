@@ -30,7 +30,7 @@ def build(self):
 - 🧠 **Machine Learning Systems**: Model development, optimization & deployment  
 - 💾 **Data Engineering**: ETL pipelines, big data workflows, and stream processing  
 - 🌐 **Web & API Development**: Intelligent web apps using **Node.js**, **React**, and **Flask**  
-- ☁️ **Cloud Services**: **AWS**, **Azure**, and **GCP** stack integration for data pipelines  
+- ☁️ **Cloud Services**: **AWS**, **Azure**stack integration for data pipeline.
 - ⚙️ **MLOps & DataOps**: Automating ML lifecycle with **Airflow**, **Docker**, and **CI/CD**
 
 ---
